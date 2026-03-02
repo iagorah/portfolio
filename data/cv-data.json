@@ -1,0 +1,132 @@
+{
+  "profile": {
+    "name": "Iago Melo",
+    "title": "Power Platform Expert",
+    "description": "Transformo planilhas em aplicativos funcionais e intuitivos. Especialista em Power Apps, Power Automate e SharePoint com sólido background técnico e de gestão.",
+    "photo": "assets/images/photo.jpg",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/iagomelo-po/",
+      "github": "https://github.com/iagorah",
+      "phone": "(62) 98499-8111",
+      "email": "iago_moreira3@hotmail.com"
+    }
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "paragraphs": [
+      "Especialista em soluções Microsoft Power Platform e graduado em Engenharia Civil. Minha trajetória é marcada pela habilidade de traduzir necessidades complexas em ferramentas digitais simplificadas.",
+      "Com vasta experiência no gerenciamento de projetos e operações em ambientes de alto fluxo como shopping centers, trago uma visão estratégica para o desenvolvimento de produtos, focando sempre em eficiência, conformidade e qualidade.",
+      "Atualmente, utilizo meu conhecimento técnico em Power Apps e tratamento de dados para acelerar a transformação digital e otimizar processos de negócio."
+    ],
+    "skills": [
+      {
+        "category": "Microsoft Power Platform",
+        "items": [
+          "Microsoft PowerApps",
+          "Power Automate",
+          "SharePoint",
+          "Power BI"
+        ]
+      },
+      {
+        "category": "Gestão & Operações",
+        "items": [
+          "Gestão de Projetos",
+          "Coordenação de Equipes",
+          "Controle Orçamentário",
+          "Adequação de AVCB"
+        ]
+      },
+      {
+        "category": "Competências Técnicas",
+        "items": [
+          "Tratamento de Dados",
+          "SQL",
+          "Python",
+          "API Integrations"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "PowerDocs Generator",
+      "description": "Automação de documentação técnica e funcional. Elimina o atrito entre dev e documentação produzindo outputs padronizados de forma automática.",
+      "link": "https://github.com/iagorah/powerdocs-generator",
+      "tags": [
+        "Python",
+        "Markdown",
+        "Automation"
+      ],
+      "type": "python"
+    },
+    {
+      "title": "Canvas Planner",
+      "description": "Aplicação de planejamento visual baseada em Canvas API. Ideal para times que buscam clareza visual em tarefas e sprints sem complexidade excessiva.",
+      "link": "https://github.com/iagorah/canvas-planner",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "type": "js"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Engenheiro Civil",
+      "company": "Construgel Construções",
+      "period": "Jun 2023 – Out 2023",
+      "description": "Responsável técnico residente na adequação de AVCB no Jaraguá do Sul Park Shopping. Atuação em coordenação de equipe, planejamento, controle orçamentário e supervisão de demolições e obras de compatibilização.",
+      "tags": [
+        "AVCB",
+        "Gestão de Equipe",
+        "Planejamento"
+      ]
+    },
+    {
+      "role": "Coordenador de Obras",
+      "company": "Terral Shopping Centers",
+      "period": "Mar 2018 – Out 2018",
+      "description": "Coordenação de obras de CAPEX do Buriti Shopping Center. Liderança de equipes, gestão de cronogramas, contratação de terceiros e análise técnica de projetos para garantir a eficiência das operações.",
+      "tags": [
+        "CAPEX",
+        "Gestão de Terceiros",
+        "Operações"
+      ]
+    },
+    {
+      "role": "Engenheiro Civil",
+      "company": "Fire Sistemas e Automação",
+      "period": "Abr 2016 – Fev 2017",
+      "description": "Engenheiro residente responsável pela revitalização do sistema de combate a incêndio (AVCB) no Flamboyant Shopping Center. Instalação técnica de bombas, hidrantes e sprinklers em área de 27.000m².",
+      "tags": [
+        "Incêndio",
+        "Engenharia Residente",
+        "Automação"
+      ]
+    },
+    {
+      "role": "Auxiliar de Engenharia",
+      "company": "Flamboyant Shopping",
+      "period": "Maio 2015 – Mar 2016",
+      "description": "Atuação na administração central do Grupo Flamboyant, gerenciando projetos de reforma/ampliação, instalações industriais e shell de lojas. Foco em orçamentos anuais e fiscalização técnica.",
+      "tags": [
+        "Administração",
+        "Retail Shell",
+        "Orçamento"
+      ]
+    },
+    {
+      "role": "Estagiário de Engenharia",
+      "company": "Diversas Empresas",
+      "period": "2012 – 2015",
+      "description": "Experiência sólida em expansionismo (Flamboyant), orçamentação de obras industriais (JMJ Construtora) e desenvolvimento de produtos técnicos (Aço Nobre).",
+      "tags": [
+        "Dan Hebert",
+        "JMJ Construtora",
+        "Aço Nobre"
+      ]
+    }
+  ]
+}
